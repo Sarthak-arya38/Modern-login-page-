@@ -1,2 +1,2 @@
-This is a simple yet cool looking login page made using HTML CS & JS .
+This is a simple and cool looking modern login page made using HTML CS & JS .
 
